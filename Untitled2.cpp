@@ -19,6 +19,7 @@ int main(void){
 			//바로 옆에 값과 비교 
 			if(array[j] > array[j + 1]){ 
 			    //바로 옆에 값과 스와핑. 
+			    //큰 값이 뒤로 계속 밀려난다. 
 				temp = array[j]; 
 				array[j] = array[j + 1];
 				array[j + 1] = temp;
