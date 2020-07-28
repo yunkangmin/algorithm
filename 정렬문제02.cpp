@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//문제 =>  https://www.acmicpc.net/problem/2752
+
 //선택정렬 
 int array[3];
 

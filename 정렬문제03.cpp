@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <algorithm>
  
+// ¹®Á¦ =>  https://www.acmicpc.net/problem/2751
+
 int number, data[1000001];
 
 void show(){
