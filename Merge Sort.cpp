@@ -6,7 +6,7 @@ const int NUMBER = 8;
 //단계별 정렬 수행 시 추가적인 배열이 필요한데 이 것을 
 //필요할 때마다 배열을 생성하면 비효율적이기 때문이다. 
 int sorted[8];
-int array[NUMBER] = {7, 6, 5, 8, 3, 5, 9, 1};
+int array[NUMBER] = {7, 6, 5, 8, 3, 5, 9, 1 };
 
 void show(){
 	for(int i = 0; i < NUMBER; i++){
